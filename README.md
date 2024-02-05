@@ -1,5 +1,7 @@
 # Confluent: Apache Kafka
 
+## 1. Create a Confluent account
+
 We navigate to the Confluent web page: **https://www.confluent.io/**
 
 We press in the **Get Started Free** button
@@ -39,4 +41,16 @@ We confirm the email and input a password
 ![image](https://github.com/luiscoco/Confluent_Apache_Kafka/assets/32194879/d81e2b50-295f-405f-8ce0-fb89bec6443b)
 
 ![image](https://github.com/luiscoco/Confluent_Apache_Kafka/assets/32194879/e968b9e4-e18c-4e0b-9d2f-30864df939bc)
+
+## 2. Log in to Confluent
+
+We navigate to the Confluent web page: **https://www.confluent.io/**
+
+https://login.confluent.io/login
+
+![image](https://github.com/luiscoco/Confluent_Apache_Kafka/assets/32194879/280aba75-533b-4bab-9468-37f79f48d569)
+
+![image](https://github.com/luiscoco/Confluent_Apache_Kafka/assets/32194879/9ade55fe-4fa8-4137-b0cc-f8797b7e8e40)
+
+
 
