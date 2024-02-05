@@ -32,3 +32,8 @@ Confluent developer
 
 https://developer.confluent.io/
 
+We confirm the email and input a password
+
+![image](https://github.com/luiscoco/Confluent_Apache_Kafka/assets/32194879/8bc490f0-c3ef-430c-b834-9c26c94f459e)
+
+![image](https://github.com/luiscoco/Confluent_Apache_Kafka/assets/32194879/d81e2b50-295f-405f-8ce0-fb89bec6443b)
